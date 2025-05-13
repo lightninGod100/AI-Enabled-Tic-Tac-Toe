@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# AI-Enabled Tic-Tac-Toe Game
 
 ## Overview
 A classic Tic-Tac-Toe console game offering both human vs. human gameplay and challenging AI opponent modes. The game features a traditional 3x3 grid where players take turns placing X and O marks, with victory achieved by forming a line horizontally, vertically, or diagonally. Future versions will include graphical interface enhancements thorugh SFML.
